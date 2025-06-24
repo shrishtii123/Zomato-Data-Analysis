@@ -18,9 +18,9 @@ All achieved using the analytical power of **Excel**.
 
 ## 💼 What I Did
 
- #✅ Cleaned and structured raw restaurant data
- #✅ Applied **Pivot Tables**, **Slicers**, and **Interactive Charts**
- #✅ Built a **visually engaging Excel Dashboard** for storytelling and business insight generation
+ * Cleaned and structured raw restaurant data
+ * Applied **Pivot Tables**, **Slicers**, and **Interactive Charts**
+ * Built a **visually engaging Excel Dashboard** for storytelling and business insight generation
 
 ---
 
